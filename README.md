@@ -150,13 +150,3 @@ python src/analysis.py
 ```text
 notebooks/churn_analysis.ipynb
 ```
-
-## Что можно улучшить
-
-Следующий этап проекта:
-
-- построить baseline-модель вероятности churn;
-- добавить ROC-AUC / PR-AUC;
-- провести feature importance;
-- проверить устойчивость результатов на train/test split;
-- добавить сегментацию клиентов.
